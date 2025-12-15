@@ -62,7 +62,7 @@ This allows comparison between linear, tree-based, distance-based, probabilistic
 
 ---
 
-## 📊 Example Results Summary
+## Example Results Summary
 
 | Model | Accuracy | Notes |
 |-------|----------|-------|
